@@ -1,6 +1,4 @@
-package com.shardco.querination.controller;
-
-import org.springframework.web.bind.annotation.RequestMapping;
+package com.shardco.querinationweb.controller;
 
 @org.springframework.web.bind.annotation.RestController
 public class RestController {
@@ -10,3 +8,4 @@ public class RestController {
 //        return "Greetings from Spring Boot!";
 //    }
 }
+

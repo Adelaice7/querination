@@ -31,6 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+/node_modules/
 /.mvn/
-querination-web/node/
-querination-web/node_modules/
+/node/
