@@ -34,3 +34,4 @@ build/
 /.mvn/
 querination-web/node/
 querination-web/node_modules/
+/querination-web/src/main/node/
