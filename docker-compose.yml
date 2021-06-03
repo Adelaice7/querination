@@ -4,8 +4,8 @@ services:
 
   server:
     build:
-      context: docker
-      dockerfile: web/Dockerfile
+      context: .
+      dockerfile: docker/web/Dockerfile
     ports:
       - "8080:8080"
       - "8787:8787"
